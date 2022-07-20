@@ -8,7 +8,8 @@
         Ah, fique à vontade pra ver meus projetos. 😁
     </p>
 
-    <h2>Estou aprendendo</h2>
+<h2>Estou aprendendo</h2>
+    
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" >
@@ -16,7 +17,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 <br>
-### Se quiser falar comigo, é bem fácil:
+
+<h2>Se quiser falar comigo, é bem fácil:<h2>
 <br>
 
 <div>
@@ -30,10 +32,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-px&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-px&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
+    <br>
 
-    <div>
-        <div class="tenor-gif-embed" data-postid="18995470" data-share-method="host" data-aspect-ratio="1.68421" data-width="50%"><a href="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470">Programmer Cycle GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    </div>
 <!--
 **marcos-px/marcos-px** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
