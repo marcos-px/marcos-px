@@ -2,7 +2,7 @@
     <h2>Olá, eu sou o Marcos!</h2>
     <p>Oie, bem vinde ao meu perfil. Sou o Marcos, tenho 28 anos e moro em Sete Lagoas-MG, bem pertim de BH. <br>
         Estou aprendendo programação WEB na Gama Academy e faço Ciência da Computação na Faculdade Descomplica. 
-        Já tenho conhedimento de HTML5 e CSS3, além de estar aprendendo JAVA SCRIPT. <br>
+        Já tenho conhecimento de HTML5 e CSS3, além de estar aprendendo JAVA SCRIPT. <br>
         Eu trabalho em outra área, estou em transição de carreira.
         Abaixo segue meus contatos, qualquer coisa é só me chamar, blz?<br>
         Ah, fique à vontade pra ver meus projetos. 😁
