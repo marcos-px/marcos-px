@@ -2,7 +2,7 @@
     <h2 align="center">Olá, eu sou o Marcos!</h2>
     <p>Oie, bem vinde ao meu perfil. Sou o Marcos, tenho 28 anos e moro em Sete Lagoas-MG, bem pertim de BH. <br>
         Sou programador WEB pela Gama Academy e faço Ciência da Computação na Faculdade Descomplica. 
-        Tenho conhecimento de HTML5, CSS3, JS, NODE, MYSQL, MONGODB, EXPRESS, TYPESCRIPT E SEQUELIZE, além de ser especialista em BACK-END. <br>
+        Tenho conhecimento de HTML5, CSS3, JS, NODE, MYSQL, MONGODB, EXPRESS, TYPESCRIPT, NEST, AWS E SEQUELIZE, além de ser especialista em BACK-END. <br>
         Eu trabalho em outra área, estou em transição de carreira.
         Abaixo segue meus contatos, qualquer coisa é só me chamar, blz?<br>
         Ah, fique à vontade pra ver meus projetos. 😁
@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
 </div>
