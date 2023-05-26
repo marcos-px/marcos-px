@@ -5,7 +5,7 @@
         Abaixo segue meus contatos, qualquer coisa é só me chamar, blz?<br>
         Ah, fique à vontade pra ver meus projetos. 😁
     </p>
-
+<!-- 
 <h2>Minhas Linguagens</h2>
     
 <div>
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
-</div>
+</div> -->
 <br>
 
 <h2>Se quiser falar comigo, é bem fácil:<h2>
