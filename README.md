@@ -1,8 +1,7 @@
 <h1>Hello World! Welcome to my profile!
     <h2 align="center">Olá, eu sou o Marcos!</h2>
     <p>Oie, bem vindo ao meu perfil. Sou o Marcos, tenho 28 anos e moro em Sete Lagoas-MG, bem pertim de BH. <br>
-        Sou desenvolvedor Back-End Node na nScreen.
-        Tenho conhecimento de HTML5, CSS3, JS, NODE, MYSQL, MONGODB, EXPRESS, TYPESCRIPT, NEST, AWS E SEQUELIZE. <br>
+        Sou Arquiteto de Dados e Desenvolvedor Back-End na nScreen. <br>
         Abaixo segue meus contatos, qualquer coisa é só me chamar, blz?<br>
         Ah, fique à vontade pra ver meus projetos. 😁
     </p>
