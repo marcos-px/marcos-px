@@ -1,7 +1,7 @@
 <h1>Hello World! Welcome to my profile!
     <h2 align="center">Olá, eu sou o Marcos!</h2>
     <p>Oie, bem vindo ao meu perfil. Sou o Marcos, tenho 29 anos e moro em Sete Lagoas-MG, bem pertim de BH. <br>
-        Sou Arquiteto de Dados e Desenvolvedor Back-End na nScreen. <br>
+        Arquiteto de Dados em CLoud e atuo hoje como Desenvolvedor Back-End Pleno na nScreen Eclipseworks. <br>
         Abaixo segue meus contatos, qualquer coisa é só me chamar, blz?<br>
         Ah, fique à vontade pra ver meus projetos. 😁
     </p>
